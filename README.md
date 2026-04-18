@@ -1,4 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Karthikeyan D
+
+## 🎮 Unity Game Developer 
+
+ - Unity Game Developer with experience in building mobile and PC games,
+ 
+ - Developed 6+ sub-games and 20+ levels,
+ 
+ - Skilled in gameplay systems, UI interactions, and level design.
+
+---
+## 🛠️ Skills
+- Unity
+- C#
+- Blender
+- Game Mechanics
+- UI System
+
+---
+
+## 🔗 Link's
+- Portfolio: https://www.linkedin.com/in/karthikeyan-durairaj-88287037b/
+- LinkedIn: https://karthikeyan.framer.ai/
+ 
+
 
 <!--
 **Karthik1811-spec/Karthik1811-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
