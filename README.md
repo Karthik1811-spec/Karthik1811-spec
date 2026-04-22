@@ -19,8 +19,8 @@
 ---
 
 ## 🔗 Link's
-- Portfolio: https://www.linkedin.com/in/karthikeyan-durairaj-88287037b/
-- LinkedIn: https://karthikeyan.framer.ai/
+- Portfolio: https://karthikeyand.framer.website/
+- LinkedIn: https://www.linkedin.com/in/karthikeyan-durairaj-88287037b/
  
 
 
