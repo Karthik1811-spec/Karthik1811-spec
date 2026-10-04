@@ -19,7 +19,7 @@
 ---
 
 ## 🔗 Link's
-- Portfolio: https://karthikeyand.framer.website/
+- Portfolio: [https://karthikeyand.framer.website/](https://dkarthikeyan-portfolio.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/karthikeyan-durairaj-88287037b/
  
 
