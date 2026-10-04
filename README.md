@@ -19,7 +19,7 @@
 ---
 
 ## 🔗 Link's
-- Portfolio: [Portfolio](https://dkarthikeyan-portfolio.vercel.app/)
+- Portfolio: [Karthikeyan D — Unity Game Developer](https://dkarthikeyan-portfolio.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/karthikeyan-durairaj-88287037b/
  
 
